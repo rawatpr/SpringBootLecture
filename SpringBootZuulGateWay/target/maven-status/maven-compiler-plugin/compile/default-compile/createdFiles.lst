@@ -1,0 +1,6 @@
+com\javasampleapproach\zuulgateway\filters\ErrorFilter.class
+com\javasampleapproach\zuulgateway\SpringBootZuulGateWayApplication.class
+com\javasampleapproach\zuulgateway\filters\PreFilter.class
+com\javasampleapproach\zuulgateway\filters\PostFilter.class
+com\javasampleapproach\zuulgateway\filters\PreFilter2.class
+com\javasampleapproach\zuulgateway\filters\RouteFilter.class
